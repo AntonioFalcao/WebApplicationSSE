@@ -1,6 +1,6 @@
 # MinimalWebApplicationSSE
 
-Minimal .NET 6 WebAPI - Server-Sent Events (SSE)
+Minimal .NET 9 WebAPI - Server-Sent Events (SSE)
 
  ### Event
 > The Event interface represents an event which takes place in the DOM.     
